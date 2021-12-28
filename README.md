@@ -1,2 +1,2 @@
-# DS-200
-Assignments for Introduction to Data Sciences course
+# Data Science Related Projects
+Projects that use the technologies in Data Science
